@@ -1,2 +1,3 @@
+# obfuscated tools
 doraso.exe -> mimikatz
-rios -> god potato
+rios.exe -> god potato
